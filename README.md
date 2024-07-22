@@ -28,7 +28,5 @@ Recommendations:
 - For future data collection purposes we recommend asking customers as they complete their bookings about purpose of the trip (business, leisure etc.) or who are they travelling with (family, friends). That would enable us to conduct more in depth analysis of customers behaviour and hopefully lead to more effective marketing campaigns.
 - We have also discovered several issues in collected data and we will be forwarding those to data engineering team for them to be fixed.
 
-Executive summary: https://www.canva.com/design/DAGKv8EV30E/ezUVErCVY22HuF7twvIVog/edit?utm_content=DAGKv8EV30E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Presentation: https://www.loom.com/share/0319d422411944c6a31c2aa7256a29e7?sid=8a10da80-b070-48fe-bb52-f9474bca2100
 
